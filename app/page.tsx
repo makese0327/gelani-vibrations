@@ -30,7 +30,7 @@ export default function GelaniVibrationsWebsite() {
           <img 
             src="/logo.png" 
             alt="Gelani Vibrations Logo" 
-            className="h-40 md:h-56 w-auto mb-8"
+            className="h-56 md:h-96 w-auto mb-8"
           />
         </div>
 
