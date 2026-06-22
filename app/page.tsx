@@ -26,6 +26,14 @@ export default function GelaniVibrationsWebsite() {
       <section className="relative px-6 md:px-12 py-32 md:py-44 flex flex-col justify-center items-start">
         <div className="absolute right-[-100px] top-20 w-[300px] h-[300px] bg-blue-500/20 blur-3xl rounded-full" />
 
+        <div className="mb-12">
+          <img 
+            src="/logo.png" 
+            alt="Gelani Vibrations Logo" 
+            className="h-40 md:h-56 w-auto mb-8"
+          />
+        </div>
+
         <p className="uppercase tracking-[0.5em] text-blue-400 text-xs mb-6">
           Sound • Frequency • Wellness • Expression
         </p>
