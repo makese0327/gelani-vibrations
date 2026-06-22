@@ -27,7 +27,7 @@ export default function GelaniVibrationsWebsite() {
         <div className="absolute right-[-100px] top-20 w-[300px] h-[300px] bg-blue-500/20 blur-3xl rounded-full" />
 
         <p className="uppercase tracking-[0.5em] text-blue-400 text-xs mb-6">
-          Sound • Frequency • Expression
+          Sound • Frequency • Wellness • Expression
         </p>
 
         <h2 className="text-5xl md:text-8xl font-light leading-none max-w-5xl">
@@ -46,7 +46,7 @@ export default function GelaniVibrationsWebsite() {
           </button>
 
           <button className="px-8 py-4 rounded-2xl border border-white/20 hover:border-blue-400 hover:text-blue-400 transition">
-            Explore The World
+            Breathe With Nature
           </button>
         </div>
       </section>
@@ -56,7 +56,7 @@ export default function GelaniVibrationsWebsite() {
         <div className="flex items-end justify-between mb-12 flex-wrap gap-4">
           <div>
             <p className="uppercase tracking-[0.4em] text-blue-400 text-xs mb-3">
-              Latest Sound
+              KINETIC , POETIC , LETS GET IT !
             </p>
             <h3 className="text-4xl md:text-5xl font-light">
               Music Releases
@@ -64,7 +64,7 @@ export default function GelaniVibrationsWebsite() {
           </div>
 
           <p className="text-white/60 max-w-xl">
-            Stream original music, remixes, atmospheric recordings, and sonic experiments directly from the source.
+            Stream KESEH's oriJAHnal music, remixes, covers and sonic experiments directly from the source.
           </p>
         </div>
 
@@ -84,11 +84,11 @@ export default function GelaniVibrationsWebsite() {
                 </p>
 
                 <h4 className="text-2xl font-light mb-3 group-hover:text-blue-400 transition">
-                  Midnight Frequency
+                  2727
                 </h4>
 
                 <p className="text-white/60 leading-relaxed text-sm">
-                  Experimental textures, deep ambience, and emotionally layered sound.
+                  Define Yourself. Set your Model. Run it!
                 </p>
 
                 <button className="mt-6 text-blue-400 text-sm tracking-widest uppercase hover:translate-x-1 transition">
@@ -104,7 +104,7 @@ export default function GelaniVibrationsWebsite() {
       <section id="thoughts" className="px-6 md:px-12 py-24 border-t border-white/10 bg-white/[0.02]">
         <div className="max-w-4xl">
           <p className="uppercase tracking-[0.4em] text-blue-400 text-xs mb-3">
-            Journal / Mind
+            IT IS WHAT IT IS & ITS NOT WHAT ITS NOT
           </p>
 
           <h3 className="text-4xl md:text-6xl font-light leading-tight mb-10">
@@ -118,11 +118,11 @@ export default function GelaniVibrationsWebsite() {
                 className="p-8 rounded-3xl border border-white/10 hover:border-blue-500/30 transition bg-black/40"
               >
                 <p className="text-white/40 text-sm mb-3">
-                  May 2026
+                  March 1994
                 </p>
 
                 <h4 className="text-2xl md:text-3xl font-light mb-4 hover:text-blue-400 transition cursor-pointer">
-                  This no measure of greatness this phenomena of existence holds.
+                  FOCUS • DETOX • AMAZE YORSELF
                 </h4>
 
                 <p className="text-white/60 leading-relaxed max-w-3xl">
@@ -143,7 +143,7 @@ export default function GelaniVibrationsWebsite() {
             </p>
 
             <h3 className="text-4xl md:text-5xl font-light">
-              Wear The Frequency
+              Every Wear Is Frequency
             </h3>
           </div>
 
@@ -164,15 +164,15 @@ export default function GelaniVibrationsWebsite() {
 
               <div className="p-6">
                 <h4 className="text-2xl font-light group-hover:text-blue-400 transition mb-2">
-                  Flow State Tee
+                  Gelani Fi Yuh Body
                 </h4>
 
                 <p className="text-white/50 mb-4">
-                  Premium heavyweight cotton.
+                  Premium Wild-crafted Vibes.
                 </p>
 
                 <div className="flex items-center justify-between">
-                  <span className="text-lg">$45</span>
+                  <span className="text-lg">$25</span>
 
                   <button className="px-5 py-2 rounded-xl bg-blue-500 text-black hover:bg-blue-400 transition font-medium">
                     Add to Cart
@@ -187,7 +187,7 @@ export default function GelaniVibrationsWebsite() {
       {/* Gallery */}
       <section id="gallery" className="px-6 md:px-12 py-24 border-t border-white/10 bg-white/[0.02]">
         <p className="uppercase tracking-[0.4em] text-blue-400 text-xs mb-3">
-          Visual Atmosphere
+          Life is One Big Motion Picture
         </p>
 
         <h3 className="text-4xl md:text-5xl font-light mb-12">
@@ -216,13 +216,13 @@ export default function GelaniVibrationsWebsite() {
           </h3>
 
           <p className="text-white/60 text-lg leading-relaxed mb-10">
-            For collaborations, bookings, creative direction, or simply to connect — reach out and enter the frequency.
+            For collaborations, bookings, or simply to connect — reach out and enter the frequency.
           </p>
 
           <div className="flex flex-col md:flex-row gap-4 justify-center">
             <input
               type="email"
-              placeholder="Enter your email"
+              placeholder="Enter Your Email"
               className="bg-white/5 border border-white/10 rounded-2xl px-6 py-4 w-full md:w-[400px] outline-none focus:border-blue-500"
             />
 
