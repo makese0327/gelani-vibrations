@@ -28,7 +28,7 @@ export default function GelaniVibrationsWebsite() {
 
         <div className="mb-12 flex justify-center">
           <img 
-            src="/logo.svg" 
+            src="/logo.png" 
             alt="Gelani Vibrations Logo" 
             className="h-40 md:h-56 w-auto mb-8"
           />
