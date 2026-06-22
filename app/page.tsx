@@ -37,7 +37,7 @@ export default function GelaniVibrationsWebsite() {
         </h2>
 
         <p className="mt-8 max-w-2xl text-white/70 text-lg leading-relaxed">
-          Welcome to the digital home of Gelani Vibrations — a cinematic blend of music, visual art, philosophy, energy, and creative expression.
+          Welcome to the spaceship of Gelani Vibrations — a cinematic blend of music, visual art, philosophy, energy, and creative expression.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4">
