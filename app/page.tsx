@@ -35,7 +35,7 @@ export default function GelaniVibrationsWebsite() {
         </div>
 
         <p className="uppercase tracking-[0.5em] text-blue-400 text-xs mb-6 text-center">
-          Sound • Frequency • Wellness • Expression
+          Sound • Wellness • Expression
         </p>
 
         <h2 className="text-5xl md:text-8xl font-light leading-none max-w-5xl text-center">
@@ -45,7 +45,7 @@ export default function GelaniVibrationsWebsite() {
         </h2>
 
         <p className="mt-8 max-w-2xl text-white/70 text-lg leading-relaxed text-center">
-          Welcome to the spaceship of Gelani Vibrations — a cinematic blend of music, visual art, philosophy, energy, and creative expression.
+          Welcome to the spaceship of Gelani Vibrations — a cinematic blend of music, healing, philosophy, energy, and creative expression.
         </p>
 
         <div className="mt-10 flex flex-wrap gap-4 justify-center">
