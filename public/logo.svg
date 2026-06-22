@@ -1,0 +1,49 @@
+<svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Outer glow (yellow) -->
+  <defs>
+    <radialGradient id="yellowGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" style="stop-color:#FCD34D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FBBF24;stop-opacity:0.3" />
+    </radialGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <!-- Yellow background glow -->
+  <circle cx="100" cy="100" r="95" fill="url(#yellowGlow)" opacity="0.6"/>
+  
+  <!-- Outer white ring -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="white" stroke-width="6"/>
+  
+  <!-- Cyan ring -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#00D9FF" stroke-width="4"/>
+  
+  <!-- Black background -->
+  <circle cx="100" cy="100" r="82" fill="black"/>
+  
+  <!-- V shape (white) -->
+  <path d="M 60 50 L 100 130 L 140 50" stroke="white" stroke-width="18" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Cyan wave patterns at bottom -->
+  <g stroke="#00D9FF" stroke-width="2" fill="none" opacity="0.8">
+    <!-- Wave 1 -->
+    <path d="M 50 120 Q 60 115 70 120 Q 80 125 90 120"/>
+    <path d="M 55 135 Q 65 130 75 135 Q 85 140 95 135"/>
+    
+    <!-- Wave 2 -->
+    <path d="M 110 120 Q 120 115 130 120 Q 140 125 150 120"/>
+    <path d="M 105 135 Q 115 130 125 135 Q 135 140 145 135"/>
+  </g>
+  
+  <!-- Light rays effect -->
+  <g stroke="#E0E7FF" stroke-width="1" opacity="0.4">
+    <line x1="100" y1="30" x2="100" y2="50"/>
+    <line x1="100" y1="30" x2="115" y2="45"/>
+    <line x1="100" y1="30" x2="85" y2="45"/>
+  </g>
+</svg>
