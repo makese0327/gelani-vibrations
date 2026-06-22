@@ -23,32 +23,32 @@ export default function GelaniVibrationsWebsite() {
       </nav>
 
       {/* Hero */}
-      <section className="relative px-6 md:px-12 py-32 md:py-44 flex flex-col justify-center items-start">
+      <section className="relative px-6 md:px-12 py-32 md:py-44 flex flex-col justify-center items-center">
         <div className="absolute right-[-100px] top-20 w-[300px] h-[300px] bg-blue-500/20 blur-3xl rounded-full" />
 
-        <div className="mb-12">
+        <div className="mb-12 flex justify-center">
           <img 
-            src="/logo.png" 
+            src="/logo.svg" 
             alt="Gelani Vibrations Logo" 
             className="h-40 md:h-56 w-auto mb-8"
           />
         </div>
 
-        <p className="uppercase tracking-[0.5em] text-blue-400 text-xs mb-6">
+        <p className="uppercase tracking-[0.5em] text-blue-400 text-xs mb-6 text-center">
           Sound • Frequency • Wellness • Expression
         </p>
 
-        <h2 className="text-5xl md:text-8xl font-light leading-none max-w-5xl">
+        <h2 className="text-5xl md:text-8xl font-light leading-none max-w-5xl text-center">
           A space for
           <span className="block text-blue-400 italic mt-2">music, thought,</span>
           and vibration.
         </h2>
 
-        <p className="mt-8 max-w-2xl text-white/70 text-lg leading-relaxed">
+        <p className="mt-8 max-w-2xl text-white/70 text-lg leading-relaxed text-center">
           Welcome to the spaceship of Gelani Vibrations — a cinematic blend of music, visual art, philosophy, energy, and creative expression.
         </p>
 
-        <div className="mt-10 flex flex-wrap gap-4">
+        <div className="mt-10 flex flex-wrap gap-4 justify-center">
           <button className="px-8 py-4 rounded-2xl bg-blue-500 hover:bg-blue-400 transition text-black font-medium shadow-2xl shadow-blue-500/20">
             Listen Now
           </button>
